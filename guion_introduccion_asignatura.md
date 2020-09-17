@@ -4,7 +4,7 @@
 > + **_Versión_**: 1.0.
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Acceso_**: [https://github.bonet/teaching_intraspecific_competence](https://github.com/fjbonet/teaching_intraspecific_competence)
+> + **_Acceso_**: [https://github.com/fjbonet/intro_asignatura_ecologia/master/presentacion_mentimeter.md](https://github.com/fjbonet/intro_asignatura_ecologia/edit/master/presentacion_mentimeter.md)
 
 
 
@@ -39,7 +39,6 @@ Sesión teórica en la que se comentan los siguientes aspectos:
 
 Estos contenidos se describieron usando [esta](https://www.mentimeter.com/s/721e2aa5d5df6efb7acdaf4a8682ff77/7d057c98b67e) presentación creada con **Mentimeter**. 
 
-<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/embed/721e2aa5d5df6efb7acdaf4a8682ff77/7d057c98b67e' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
 
 
 
