@@ -4,7 +4,7 @@
 > + **_Versión_**: 1.0.
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Acceso_**: [https://github.com/fjbonet/intro_asignatura_ecologia/master/presentacion_mentimeter.md](https://github.com/fjbonet/intro_asignatura_ecologia/edit/master/presentacion_mentimeter.md)
+> + **_Acceso_**: [https://github.com/fjbonet/intro_asignatura_ecologia/blob/master/guion_introduccion_asignatura.md](https://github.com/fjbonet/intro_asignatura_ecologia/blob/master/guion_introduccion_asignatura.md)
 
 
 
