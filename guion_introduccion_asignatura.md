@@ -43,7 +43,7 @@ Sesión teórica en la que se comentan los siguientes aspectos:
   + Pedagogía del error: corrección y reenvío de trabajos.
   + Exámenes en los que también aprendes... 
 
-Estos contenidos se describieron usando [esta](https://www.mentimeter.com/s/ebb69b76615344c1c5936f03fba7b8b6/455d8c1b0aee) presentación creada con **Mentimeter**. Puedes verla más abajo incrustada en esta página. Aquí se puede descargar la presentación en pdf. 
+Estos contenidos se describieron usando [esta](https://www.mentimeter.com/s/ebb69b76615344c1c5936f03fba7b8b6/455d8c1b0aee) presentación creada con **Mentimeter**. Puedes verla más abajo incrustada en esta página. [Aquí](https://github.com/aprendiendo-cosas/intro_asignatura_ecologia_ccaa/raw/master/presentacion_mentimeter.pdf) se puede descargar la presentación en pdf. 
 
 
 <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/embed/ebb69b76615344c1c5936f03fba7b8b6/455d8c1b0aee' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
