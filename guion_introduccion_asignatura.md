@@ -1,10 +1,10 @@
 # Guión de la sesión denominada "Introducción a la asignatura de ecología"
 
 
-> + **_Versión_**: v.2019-2020
+> + **_Versión_**: v.2020-2021
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**: Una hora aproximadamente.
+> + **_Duración_**: Dos horas.
 
 
 
@@ -13,10 +13,16 @@
 Se trata de la primera sesión de la asignatura. Tiene los siguientes objetivos:
 
  + Despertar el interés y la curiosidad de los alumnos por la asignatura. 
+
  + Introducir algunos conceptos clave que se repetirán mucho durante el curso: interdependencia, relaciones, etc.
+
  + Describir brevemente cómo se han ido incorporando a esta ciencia los conceptos anteriores: breve repaso histórico de esta disciplina.
+
  + Recabar información sobre las opiniones previas y conocimiento existente sobre la asignatura por parte de los estudiantes. Recopilar también sugerencias por su parte.
+
  + Presentar los contenidos principales de la asignatura, así como los métodos de evaluación que se proponen. 
+
+   
 
 ## Contenidos
 Sesión teórica en la que se comentan los siguientes aspectos:
@@ -26,11 +32,11 @@ Sesión teórica en la que se comentan los siguientes aspectos:
 + Importancia del establecimiento de una comunicación bidireccional entre estudiantes y profesor.
 + Recopilación de información sobre la percepción y conocimientos previos que tienen los alumnos sobre la ecología. 
 + Descripción de contenidos a impartir:
-  + 28 sesiones "teóricas"
+  + 13 sesiones "teóricas" de dos horas.
     + Algunas sesiones permitirán introducir los temas a abordar. En ellas se impartirán conceptos teóricos.
     + Otras permitirán discutir cuestiones aplicadas de los aspectos teóricos descritos en la sesión anterior. 
-  + 11 sesiones prácticas (33 horas): manejo de herramientas digitales, consolidación de conocimientos teóricos adquiridos, etc.
-  + Salida a Sierra Nevada. No se pudo realizar debido a la crisis del COVID-19.
+  + 9 sesiones prácticas (3 horas/sesión): manejo de herramientas digitales, consolidación de conocimientos teóricos adquiridos, etc.
+  + Salida a Sierra Nevada. 
 + Niveles de organización en ecología: poblaciones, comunidades, ecosistemas, etc.  
 + Evaluación de la asignatura: Evaluar y aprender son partes del mismo proceso. 
   + Evaluación continua mediante trabajos.
@@ -43,5 +49,10 @@ Estos contenidos se describieron usando [esta](https://www.mentimeter.com/s/721e
 <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/embed/721e2aa5d5df6efb7acdaf4a8682ff77/7d057c98b67e' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
 
 
+
+Además, el siguiente vídeo contiene la grabación de la sesión. El vídeo está colgado en youtube, pero solo es visible para aquellos que tengan el enlace. 
+
+
+<iframe width="560" height="615" src="https://www.youtube.com/embed/EOpUn_exyRo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
