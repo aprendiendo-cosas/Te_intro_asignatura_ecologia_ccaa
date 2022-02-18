@@ -52,7 +52,7 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
   + Pedagogía del error: corrección y reenvío de trabajos.
   + Exámenes en los que también aprendes... 
 
-Estos contenidos se describieron usando [esta](https://www.mentimeter.com/s/c7573df3563c86c0b29f71f6fbaf3f09/1dc6d4d68e9a) presentación creada con **Mentimeter**. Puedes verla más abajo incrustada en esta página. [Aquí](https://github.com/aprendiendo-cosas/intro_asignatura_ecologia_ccaa/blob/2021_2022/introduccion_asignatura_ecologia.pdf) se puede descargar la presentación en pdf.
+Estos contenidos se describieron usando [esta](https://www.mentimeter.com/s/c7573df3563c86c0b29f71f6fbaf3f09/1dc6d4d68e9a) presentación creada con **Mentimeter**. Puedes verla más abajo incrustada en esta página. [Aquí](https://github.com/aprendiendo-cosas/intro_asignatura_ecologia_ccaa/blob/2021__2022/introduccion_asignatura_ecologia.pdf) se puede descargar la presentación en pdf.
 
 
 <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/embed/c7573df3563c86c0b29f71f6fbaf3f09/1dc6d4d68e9a' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
