@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**: Una hora.
+> + **_Duración_**: Dos horas.
 
 
 
@@ -42,8 +42,12 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
 + Evaluación de la asignatura. Recopilación de información sobre las experiencias y preferencias de los estudiantes en cuanto a la evaluación.
 + Filosofía de la evaluación en esta asignatura: Evaluar y aprender son partes del mismo proceso. 
   + Evaluación continua mediante trabajos.
-  + Pedagogía del error: corrección y reenvío de trabajos.
+  + Pedagogía del error: corrección y reenvío de trabajos (ver imagen abajo para entender por qué esto es importante).
   + Exámenes en los que también aprendes... 
+
+![error]()
+
+
 
 Estos contenidos se describieron usando [esta](https://www.mentimeter.com/app/presentation/al62w5ty8osns4qafcpvoceje5myp3s8) presentación creada con **Mentimeter**. Puedes verla más abajo incrustada en esta página. [Aquí](https://github.com/aprendiendo-cosas/intro_asignatura_ecologia_ccaa/blob/2022-2023/introduccion_asignatura_ecologia.pdf) se puede descargar la presentación en pdf.
 
