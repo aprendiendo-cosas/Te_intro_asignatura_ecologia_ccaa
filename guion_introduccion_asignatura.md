@@ -45,11 +45,11 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
   + Pedagogía del error: corrección y reenvío de trabajos (ver imagen abajo para entender por qué esto es importante).
   + Exámenes en los que también aprendes... 
 
-![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2022_2023/imagenes/errores.jpg)
+![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2022___2023/imagenes/errores.jpg)
 
 
 
-Estos contenidos se describieron usando [esta](https://www.mentimeter.com/app/presentation/al62w5ty8osns4qafcpvoceje5myp3s8) presentación creada con **Mentimeter**. Puedes verla más abajo incrustada en esta página. [Aquí](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2022_2023/introduccion_asignatura_ecologia.pdf) se puede descargar la presentación en pdf.
+Estos contenidos se describieron usando [esta](https://www.mentimeter.com/app/presentation/al62w5ty8osns4qafcpvoceje5myp3s8) presentación creada con **Mentimeter**. Puedes verla más abajo incrustada en esta página. [Aquí](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2022___2023/introduccion_asignatura_ecologia.pdf) se puede descargar la presentación en pdf.
 
 
 <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/al62w5ty8osns4qafcpvoceje5myp3s8/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
@@ -58,7 +58,7 @@ Estos contenidos se describieron usando [esta](https://www.mentimeter.com/app/pr
 
 Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
 
-<img src="https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2022_2023/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2022___2023/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:100%;" />
 
-<img src="https://github.com/aprendiendo-cosas/Te_depredacion_ecologia_ccaa/raw/Te_intro_asignatura_ecologia_ccaa/raw/2022_2023/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2022___2023/imagenes/desempenio_profesor.png" alt="image" style="zoom:100%;" />
 
