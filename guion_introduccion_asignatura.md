@@ -47,7 +47,7 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
 
 
 
-Estos contenidos se describieron usando la presentación que se puede descargar aquí. 
+Estos contenidos se describieron usando la presentación que se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2023_2024/presentacion/introduccion_ecologia.pptx). 
 
 
 
