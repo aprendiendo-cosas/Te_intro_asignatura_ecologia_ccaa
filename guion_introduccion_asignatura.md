@@ -1,10 +1,10 @@
 # Guión de la sesión "Introducción a la asignatura de ecología"
 
 
-> + **_Versión_**: 2022-2023
+> + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**: Dos horas.
+> + **_Duración_**: Una hora.
 
 
 
@@ -33,32 +33,25 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
 + Necesidad de mantener una actitud abierta y tomar conciencia de que las disciplinas son solo constructos intelectuales que nos ayudan a comprender el mundo. Si les damos (a las disciplinas) más importancia de la que tienen, provocan el efecto contrario: limitan nuestra comprensión de la realidad.
 + Importancia del establecimiento de una comunicación bidireccional entre estudiantes y profesor. Para fomentar la comunicación usaremos estas dos herramientas:
   + Página de moodle de la UCO. Como ya sabemos ahí hay un canal de comunicación. También se subirá ahí todo el material.
-  + Grupo de Telegram. Está pensado para interactuar de forma más dinámica. Se pueden subir archivos, encuestas y conversar. También pondré ahí todo el material e informaré de eventos. Para unirte al grupo debes de instalar la aplicación en tu móvil u ordenador. Después haz click [aquí](https://t.me/+dAX8Fdmb1QQzZGFk) para entrar en el grupo. En Telegram no compartes tu número de teléfono con nadie si no quieres.
+  + Grupo de Telegram. Está pensado para interactuar de forma más dinámica. Se pueden subir archivos, encuestas y conversar. También pondré ahí todo el material e informaré de eventos. Para unirte al grupo debes de instalar la aplicación en tu móvil u ordenador. Después haz click [aquí](https://t.me/+IKwjvQ5h9_dlODVk) para entrar en el grupo. En Telegram no compartes tu número de teléfono con nadie si no quieres.
 + Pregunta interactiva sobre la preferencia de los estudiantes por el grado que estudian.
 + Preguntas interactivas sobre las cuestiones positivas y negativas que han observado los estudiantes en lo que llevan de grado.
-+ Recopilación de información sobre la percepción y conocimientos previos que tienen los alumnos sobre la ecología. 
 + Descripción de contenidos a impartir.
 + Descripción de la forma de distribuir material. Se describirá la estructura tipo de uno de los guiones asociados a cada "tema". Dichos guiones se suministrarán a través de Moodle y en el grupo de Telegram mencionado anteriormente. 
-+ Evaluación de la asignatura. Recopilación de información sobre las experiencias y preferencias de los estudiantes en cuanto a la evaluación.
 + Filosofía de la evaluación en esta asignatura: Evaluar y aprender son partes del mismo proceso. 
   + Evaluación continua mediante trabajos.
   + Pedagogía del error: corrección y reenvío de trabajos (ver imagen abajo para entender por qué esto es importante).
   + Exámenes en los que también aprendes... 
 
-![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2022___2023/imagenes/errores.jpg)
+![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2023_2024/imagenes/errores.jpg)
 
 
 
-Estos contenidos se describieron usando [esta](https://www.mentimeter.com/app/presentation/al62w5ty8osns4qafcpvoceje5myp3s8) presentación creada con **Mentimeter**. Puedes verla más abajo incrustada en esta página. [Aquí](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2022___2023/introduccion_asignatura_ecologia.pdf) se puede descargar la presentación en pdf.
+Estos contenidos se describieron usando la presentación que se puede descargar aquí. 
 
 
-<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/al62w5ty8osns4qafcpvoceje5myp3s8/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
 
-## Evaluación de la sesión según los estudiantes
 
-Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2022___2023/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:100%;" />
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/2022___2023/imagenes/desempenio_profesor.png" alt="image" style="zoom:100%;" />
 
