@@ -1,10 +1,13 @@
-# Guión de la sesión "Introducción a la asignatura de ecología"
+# Introducción a la asignatura de ecología
 
 
-> + **_Versión_**: 2023-2024
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> 
+> + **_Versión_**: 2025-2025
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Una hora.
+
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2023_2024/imagenes/portada.png)
 
 
 
