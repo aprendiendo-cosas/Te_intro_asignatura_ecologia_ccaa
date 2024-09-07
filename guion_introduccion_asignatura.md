@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Una hora.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2023_2024/imagenes/portada.png)
+![portada](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/master/imagenes/portada.jpg)
 
 
 
@@ -30,13 +30,13 @@ Se trata de la primera sesión de la asignatura. Tiene los siguientes objetivos:
 ## Contenidos
 En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
 
-+ Presentación de los profesores y los estudiantes.
++ Presentación del profesor y los estudiantes.
 + Pregunta interactiva a los estudiantes sobre las razones por las que se han matriculado en ecología.
 + Objetivos de la asignatura.
 + Necesidad de mantener una actitud abierta y tomar conciencia de que las disciplinas son solo constructos intelectuales que nos ayudan a comprender el mundo. Si les damos (a las disciplinas) más importancia de la que tienen, provocan el efecto contrario: limitan nuestra comprensión de la realidad.
 + Importancia del establecimiento de una comunicación bidireccional entre estudiantes y profesor. Para fomentar la comunicación usaremos estas dos herramientas:
   + Página de moodle de la UCO. Como ya sabemos ahí hay un canal de comunicación. También se subirá ahí todo el material.
-  + Grupo de Telegram. Está pensado para interactuar de forma más dinámica. Se pueden subir archivos, encuestas y conversar. También pondré ahí todo el material e informaré de eventos. Para unirte al grupo debes de instalar la aplicación en tu móvil u ordenador. Después haz click [aquí](https://t.me/+IKwjvQ5h9_dlODVk) para entrar en el grupo. En Telegram no compartes tu número de teléfono con nadie si no quieres.
+  + Grupo de Telegram. Está pensado para interactuar de forma más dinámica. Se pueden subir archivos, encuestas y conversar. También pondré ahí todo el material e informaré de eventos. Para unirte al grupo debes de instalar la aplicación en tu móvil u ordenador. Después haz click [aquí](https://t.me/+hntaPd2pYVU4ZmQ0) para entrar en el grupo. En Telegram no compartes tu número de teléfono con nadie si no quieres.
 + Pregunta interactiva sobre la preferencia de los estudiantes por el grado que estudian.
 + Preguntas interactivas sobre las cuestiones positivas y negativas que han observado los estudiantes en lo que llevan de grado.
 + Descripción de contenidos a impartir.
@@ -46,7 +46,7 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
   + Pedagogía del error: corrección y reenvío de trabajos (ver imagen abajo para entender por qué esto es importante).
   + Exámenes en los que también aprendes... 
 
-![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2023_2024/imagenes/errores.jpg)
+![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/master/imagenes/errores.jpg)
 
 
 
