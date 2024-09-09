@@ -39,7 +39,7 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
   + Grupo de Telegram. Está pensado para interactuar de forma más dinámica. Se pueden subir archivos, encuestas y conversar. También pondré ahí todo el material e informaré de eventos. Para unirte al grupo debes de instalar la aplicación en tu móvil u ordenador. Después haz click [aquí](https://t.me/+hntaPd2pYVU4ZmQ0) para entrar en el grupo. En Telegram no compartes tu número de teléfono con nadie si no quieres.
 + Pregunta interactiva sobre la preferencia de los estudiantes por el grado que estudian.
 + Preguntas interactivas sobre las cuestiones positivas y negativas que han observado los estudiantes en lo que llevan de grado.
-+ Descripción de contenidos a impartir.
++ Descripción de la estructura de las clases en la asignatura.
 + Descripción de la forma de distribuir material. Se describirá la estructura tipo de uno de los guiones asociados a cada "tema". Dichos guiones se suministrarán a través de Moodle y en el grupo de Telegram mencionado anteriormente. 
 + Filosofía de la evaluación en esta asignatura: Evaluar y aprender son partes del mismo proceso. 
   + Evaluación continua mediante trabajos.
@@ -50,11 +50,11 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
 
 
 
-Estos contenidos se describieron usando la presentación que se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2023_2024/presentacion/introduccion_ecologia.pptx). 
+Estos contenidos se describieron usando la siguiente presentación.
 
 
 
-
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alnuokzupwofmz412tksf26er8931k4y/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'; ' height='420'></iframe></div>
 
 
 
