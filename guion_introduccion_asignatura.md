@@ -2,12 +2,12 @@
 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> 
-> + **_Versión_**: 2025-2025
+> + **_Versión_**: 2024-2025
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Una hora.
 
-![portada](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/master/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2024_2025/imagenes/portada.jpg)
 
 
 
@@ -46,7 +46,7 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
   + Pedagogía del error: corrección y reenvío de trabajos (ver imagen abajo para entender por qué esto es importante).
   + Exámenes en los que también aprendes... 
 
-![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/master/imagenes/errores.jpg)
+![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2024_2025/imagenes/errores.jpg)
 
 
 
