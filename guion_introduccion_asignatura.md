@@ -2,12 +2,12 @@
 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> 
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**: Una hora.
+> + **_Duración_**: 1,5 horas
 
-![portada](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2024_2025/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2025_2026/imagenes/portada.jpg)
 
 
 
@@ -40,21 +40,30 @@ En esta sesión se sigue un hilo argumental basado en los siguientes elementos:
 + Pregunta interactiva sobre la preferencia de los estudiantes por el grado que estudian.
 + Preguntas interactivas sobre las cuestiones positivas y negativas que han observado los estudiantes en lo que llevan de grado.
 + Descripción de la estructura de las clases en la asignatura.
-+ Descripción de la forma de distribuir material. Se describirá la estructura tipo de uno de los guiones asociados a cada "tema". Dichos guiones se suministrarán a través de Moodle y en el grupo de Telegram mencionado anteriormente. 
++ Descripción de la forma de distribuir material. Se describirá la estructura tipo de uno de los guiones asociados a cada "tema". Dichos guiones se suministrarán a través de Moodle. 
 + Filosofía de la evaluación en esta asignatura: Evaluar y aprender son partes del mismo proceso. 
   + Evaluación continua mediante trabajos.
   + Pedagogía del error: corrección y reenvío de trabajos (ver imagen abajo para entender por qué esto es importante).
   + Exámenes en los que también aprendes... 
 
-![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2024_2025/imagenes/errores.jpg)
+![error](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/raw/2025_2026/imagenes/errores.jpg)
 
 
 
 Estos contenidos se describieron usando la siguiente presentación.
 
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alo28uj2n8j9o6z7a7r98yves7rfdak5/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
 
 
-<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alnuokzupwofmz412tksf26er8931k4y/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'; ' height='420'></iframe></div>
+
+****
+
+[Aquí](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+
+****
+Haz click [aquí](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+
+****
 
 
 
