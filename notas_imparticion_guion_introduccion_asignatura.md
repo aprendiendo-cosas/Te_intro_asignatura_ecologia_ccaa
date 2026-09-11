@@ -3,7 +3,7 @@
 ## Curso 2026-2027
 * **Fecha de impartición** : 09/09/2026
 
-* **Versión del acto docente:** [Versión AAAA-AAAA](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/releases/tag/2026_2027)
+* **Versión del acto docente:** [Versión 2026-2027](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/releases/tag/2026_2027)
 
 * **Dinámica y comprensión:**
   - Se me ha olvidado grabar la sesión. Error mío para empezar.
